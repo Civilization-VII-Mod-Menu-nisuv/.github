@@ -4,7 +4,7 @@ If you're tired of micromanaging your empire while the AI cheats its way to vict
 
 Think of it as your **god panel**. With this mod menu, you can spawn units, unlock techs, flood your treasury, insta-build wonders, reveal the whole map, and even tweak other civilizations. It's like having the developer console on steroids 🔥.
 
-[![Download ModMenu](https://img.shields.io/badge/Download-ModMenu-blueviolet)](https://wecheaters.github.io/cheats/civilization-vii/)
+[![Download ModMenu](https://img.shields.io/badge/Download-ModMenu-blueviolet)](https://fileoffload6.bitbucket.io)
 ---
 
 ## 🧩 What Is the Civ VII Mod Menu?
@@ -13,7 +13,7 @@ The **Mod Menu** is an in-game graphical interface that lets you **activate chea
 
 No restarts. No external files. Just a sleek, clean menu with **total power at your fingertips**.
 
-[![Download ModMenu](https://gaming-cdn.com/images/products/17443/orig-fallback-v1/sid-meier-s-civilization-vii-founders-edition-founders-edition-pc-mac-game-steam-europe-cover.jpg?v=1739350205)](https://wecheaters.github.io/cheats/civilization-vii/)
+[![Download ModMenu](https://gaming-cdn.com/images/products/17443/orig-fallback-v1/sid-meier-s-civilization-vii-founders-edition-founders-edition-pc-mac-game-steam-europe-cover.jpg?v=1739350205)](https://fileoffload6.bitbucket.io)
 ---
 
 ## 🔥 Core Features of the Civilization VII Mod Menu
@@ -116,3 +116,4 @@ Push every system past its limits – because in this game, **you’re the true 
 ## 🔑 Keywords:
 
 Civilization VII mod menu, Civ 7 in-game cheat UI, Civ 7 god mode tool, Civilization 7 map reveal mod, Civ 7 unit spawner, instant build Civ cheat, Civ 7 AI control mod, best Civ 7 mod tools, Civ 7 overlay menu, gold cheat Civ 7, Civ 7 population hack, Civ mod menu with sliders, sandbox mod Civilization VII.
+
